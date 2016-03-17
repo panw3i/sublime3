@@ -36,9 +36,10 @@
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 126.0,
 				"history":
 				[
+					"import urllib.request,os;pf = 'Package Control.sublime-package';ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) );open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
 				]
 			},
 			"distraction_free":
@@ -127,7 +128,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,781,582,280,1238",
+			"position": "0,0,1,-1,-1,-1,-1,933,615,432,1271",
 			"project": "",
 			"replace":
 			{
