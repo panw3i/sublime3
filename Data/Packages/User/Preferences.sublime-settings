@@ -4,5 +4,6 @@
 	"ignored_packages":
 	[
 	],
-	"theme": "Brogrammer.sublime-theme"
+	"theme": "Brogrammer.sublime-theme",
+	"highlight_line": true,
 }

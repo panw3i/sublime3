@@ -6,11 +6,14 @@
 	"installed_packages":
 	[
 		"1337 Color Scheme",
+		"Anaconda",
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"Emmet",
+		"Package Control",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"Terminal",
 		"Theme - Brogrammer"
 	]
 }

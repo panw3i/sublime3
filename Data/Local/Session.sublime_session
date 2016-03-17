@@ -20,19 +20,51 @@
 			"buffers":
 			[
 			],
-			"build_system": "",
+			"build_system": "Packages/Python/Python.sublime-build",
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 0.0,
-				"last_filter": "",
+				"height": 327.0,
+				"last_filter": "Package Control: ip",
 				"selected_items":
 				[
+					[
+						"Package Control: ip",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					]
 				],
-				"width": 0.0
+				"width": 472.0
 			},
 			"console":
 			{
@@ -53,6 +85,8 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Administrator/Desktop/1.py",
+				"/C/Users/Administrator/Desktop/sublime3/Data/Packages/User/Preferences.sublime-settings"
 			],
 			"find":
 			{
@@ -123,12 +157,16 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 146.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,933,615,432,1271",
+			"position": "0,0,1,-32000,-32000,-1,-1,715,-71,84,1197",
 			"project": "",
 			"replace":
 			{
