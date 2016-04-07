@@ -157,8 +157,7 @@ class OpenTerminalCommand(sublime_plugin.WindowCommand, TerminalCommand):
         if not path:
             return
 
-        if parameters is None:
-            parameters = get_setting('parameters', [])
+        parameters = get_setting('parameters', [])
 
         if os.path.isfile(path):
             path = os.path.dirname(path)
