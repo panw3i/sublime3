@@ -1,5 +1,7 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/brogrammer (SL).tmTheme",
+	"enable_highlight": true,
+	"enable_mathjax": true,
 	"font_size": 15,
 	"highlight_line": true,
 	"ignored_packages":
